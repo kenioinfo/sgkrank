@@ -77,6 +77,10 @@
   自称最强数据，实际量不大，免费接口白嫖一下可以，别充钱
   https://t.me/yssgmfchabot
 
+- **萬达社工库** <img src="WDSGK_bot.jpg" width="40"> —— @WDSGK_bot
+  万达社工库免费机器人，2026 新入榜。特色是全国模糊找人和身份证补齐，支持手机号、身份证、社保记录、QQ号、同学关系、同事关系、常用地址、微信号、银行卡、车牌号、全家户籍、贴吧ID、微博ID、抖音反查，全部免费开放不用充值，新手入门首选。
+  https://t.me/WDSGK_bot
+
 
 ## 🏢 老牌大厂区（数据体系大，付费为主）
 
@@ -290,6 +294,7 @@
 - **电报市场|免费社工库 @ChinaSGKbot** —— @TG_Market_Group3 （287成员）
   🔥🤖免费社工库: @ChinaSGKbot 🔥市场地址 @TG_Market_Bot 主群 @TG_Market_Group 管理员 @TG_Market_KF 市场使用方法：https://telegra.ph/TG-Market-Bot
   https://t.me/TG_Market_Group3
+
 
 ## 📖 新手使用指南
 
